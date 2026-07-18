@@ -13,6 +13,7 @@
 - C
 - Git e GitHub
 - Linux
+- JavaScript
 
 ---
 
@@ -26,8 +27,8 @@
 
 ## 📂 Projetos
 
-🔹 Sistema de Gerenciamento de Loja em C 
-🔹 Estudos HTML e CSS  
+🔹 Projetos pessoais em desenvolvimento <br>
+🔹 Estudos HTML e CSS <br>
 🔹 Guia de Markdown  
 
 ---
