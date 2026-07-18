@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ericka!
 
-<!--
-**erickacodes/erickacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+🚀 Em busca de evolução constante na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- HTML5
+- CSS3
+- C
+- Git e GitHub
+- Linux
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Estruturas de dados
+- Boas práticas de programação
+
+---
+
+## 📂 Projetos
+
+🔹 Sistema de Gerenciamento de Loja em C 
+🔹 Estudos HTML e CSS  
+🔹 Guia de Markdown  
+
+---
+
+## 📫 Contato
+
+GitHub: [@erickacodes](https://github.com/erickacodes)
