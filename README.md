@@ -6,22 +6,26 @@
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🖥️ Tecnologias
 
-- HTML5
-- CSS3
-- C
-- Git e GitHub
-- Linux
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5) <br>
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) <br>
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c) <br>
 
+## 🛠️ Ferramentas
+ 
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) <br>
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) <br>
 ---
 
 ## 📚 Atualmente estudando
 
 - Desenvolvimento Web
-- Estruturas de dados
+- Git e GitHub
 - Boas práticas de programação
+- Linux
+- Java Script
 
 ---
 
